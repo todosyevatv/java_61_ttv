@@ -9,7 +9,6 @@ sdsd
 dsdsdddd
 wqwqq
 :vxvv
-
-
+Изменили первый файл
 :wq
 
